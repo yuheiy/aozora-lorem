@@ -42,7 +42,7 @@ loadBook('https://www.aozora.gr.jp/cards/000081/files/456_15050.html').then(
 )
 ```
 
-### `book.lorem.content`
+### `book.content`
 
 An array containig all of the content.
 
